@@ -1,4 +1,4 @@
-package com.company;
+package hu.karolyp;
 
 public class ByteUtils {
     public static byte[] longToBytes(long number) {
